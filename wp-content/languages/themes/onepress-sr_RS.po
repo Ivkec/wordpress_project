@@ -1,0 +1,2009 @@
+# Translation of Themes - OnePress in Serbian
+# This file is distributed under the same license as the Themes - OnePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-23 17:44:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sr_RS\n"
+"Project-Id-Version: Themes - OnePress\n"
+
+#. Description of the theme
+msgid "OnePress is an outstanding creative and flexible WordPress one page theme well suited for business website, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design. The theme overall is an elegant and classic one, a fine example of Bootstrap 4 WordPress theme which compatibility with latest version of WooCommerce. (Live preview : https://demos.famethemes.com/onepress)"
+msgstr "OnePress је изванредна креативна и флексибилна Вордпрес тема погодна за пословну веб страницу, портфолио, дигиталну агенцију, приказ производа, самосталне хонорарце и све остале који цене добар дизајн. Тема је у потпуности елегантна и класична, добар пример Bootstrap 4 теме која је компатибилна са најновијим издањем WooCommerce-а (Преглед: https://demos.famethemes.com/onepress)"
+
+#. Theme Name of the theme
+msgid "OnePress"
+msgstr "OnePress"
+
+#: inc/customize-configs/section-hero.php:51
+#: inc/customize-configs/section-features.php:50
+#: inc/customize-configs/section-gallery.php:59
+#: inc/customize-configs/section-videolightbox.php:50
+#: inc/customize-configs/section-news.php:50
+#: inc/customize-configs/section-counter.php:49
+#: inc/customize-configs/section-about.php:50
+#: inc/customize-configs/section-contact.php:50
+msgid "The section ID should be English character, lowercase and no space."
+msgstr "ID одељак треба да буде написан енглеском абецедом, малим словима и без размака."
+
+#: inc/class-sections-navigation.php:87
+msgid "Disable the section navigation on mobile"
+msgstr "Онемогући одељак за креатање на мобилном"
+
+#: inc/customize-configs/options-page.php:148
+msgid "Apply when the page display featured image as header cover."
+msgstr "Примени када страница прикаже издвојену слику као слику у заглављу."
+
+#: inc/customize-configs/options-page.php:147
+msgid "Page Title Cover Alignment"
+msgstr "Поравнање наслова насловне странице"
+
+#: inc/customize-configs/options-page.php:124
+msgid "Page Title Alignment"
+msgstr "Поравнање наслова странице"
+
+#: inc/customize-configs/options-blog-posts.php:51
+msgid "Hide placeholder if the post thumbnail not exists."
+msgstr "Сакриј шаблонски текст ако сличица текста не постоји."
+
+#: inc/customize-configs/options-blog-posts.php:49
+msgid "Hide thumbnail placeholder"
+msgstr "Сакриј шаблонски текст сличице"
+
+#: inc/customize-configs/options-colors.php:54
+msgid "Secondary Color"
+msgstr "Секундарна боја"
+
+#: inc/customize-configs/section-gallery.php:331
+msgid "Enable Image Link"
+msgstr "Омогући везу до слике"
+
+#: inc/customize-configs/section-gallery.php:171
+msgid "Select a page which have content contain [gallery] shortcode or gallery blocks."
+msgstr "Означи страницу која садржи [gallery] кратки код или блок галерију."
+
+#: inc/customize-configs/options-single.php:46
+msgid "Enter content max width number, e.g : 800"
+msgstr "Унесите број највеће ширине садржаја, нпр. 800"
+
+#: inc/customize-configs/options-single.php:45
+msgid "Single Content Max Width"
+msgstr "Највећа ширина појединачног садржаја"
+
+#: inc/customize-configs/options-single.php:30
+msgid "Right Sidebar"
+msgstr "Десна бочна трака"
+
+#: inc/customize-configs/options-single.php:28
+msgid "No Sidebar"
+msgstr "Нема бочне траке"
+
+#: inc/customize-configs/options-single.php:24
+msgid "Single Layout Sidebar"
+msgstr "Распоред чланка са бочном траком"
+
+#: inc/customize-configs/options-blog-posts.php:32
+msgid "Disable archive prefix"
+msgstr "Онемогући архивски префикс"
+
+#: inc/class-sections-navigation.php:186
+msgid "Label Color"
+msgstr "Боја натписа"
+
+#: inc/class-sections-navigation.php:166
+msgid "Label Background"
+msgstr "Позадина натписа"
+
+#: inc/class-config.php:88
+msgid "Testimonials"
+msgstr "Рецензије"
+
+#: inc/class-config.php:87
+msgid "Section: Testimonials"
+msgstr "Одељак: Рецензије"
+
+#: inc/class-config.php:82
+msgid "Highlight Projects"
+msgstr "Истакнути пројекти"
+
+#: inc/class-config.php:81
+msgid "Section: Projects"
+msgstr "Одељак: Пројекти"
+
+#: inc/class-config.php:76
+msgid "Pricing Table"
+msgstr "Табела са ценама"
+
+#: inc/class-config.php:75
+msgid "Section: Pricing"
+msgstr "Одељак: Ценовник"
+
+#: inc/class-config.php:70
+msgid "Map"
+msgstr "Мапа"
+
+#: inc/class-config.php:69
+msgid "Section: Map"
+msgstr "Одељак: Мапа"
+
+#: inc/class-config.php:63
+msgid "Section: Call to Action"
+msgstr "Одељак: Позив на акцију"
+
+#: inc/class-config.php:58
+msgid "Our Clients"
+msgstr "Наши клијенти"
+
+#: inc/class-config.php:57
+msgid "Section: Clients"
+msgstr "Одељак: Клијенти"
+
+#: inc/class-config.php:50
+msgid "Section: Slider"
+msgstr "Одељак: Клизач"
+
+#: inc/admin/dashboard.php:239
+msgid "Demo Import"
+msgstr "Увести показивање"
+
+#: inc/admin/dashboard.php:234
+msgid "Overview"
+msgstr "Преглед"
+
+#: inc/admin/dashboard.php:172
+msgid "Disable (or enable) unused sections to improve Customizer loading speed. Your section settings is still saved."
+msgstr "Онемогући (или омогући) неискоришћени одељак за побољшање брзине учитавања прилагођавача. Подешавања вашег одељка су и даље сачувана."
+
+#: inc/admin/dashboard.php:171
+msgid "Customizer Section Manager"
+msgstr "Менаџер одељка за прилагођавање"
+
+#: inc/admin/dashboard.php:166
+msgid "Settings saved"
+msgstr "Подешавања су сачувана"
+
+#: inc/admin/dashboard.php:147
+msgid "Plus Feature"
+msgstr "Plus особина"
+
+#: functions.php:107
+msgid "Contact Form by WPForms"
+msgstr "WPForms контакт образац"
+
+#: inc/extras.php:411
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. F Y."
+
+#: inc/extras.php:409
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y."
+
+#: inc/extras.php:407
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y."
+
+#: inc/customizer.php:26
+msgid "<h4 class=\"customizer-group-heading-message\">Advanced Section Styling</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ...</p>"
+msgstr "<h4 class=\"customizer-group-heading-message\">Одељак напредног стилизовања</h4><p class=\"customizer-group-heading-message\">Погледајте <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> издање за потпуну контролу стилизовања одељка, који укључује боју позадине, слику, видео запис, паралаксни ефекат, прилагођени стил и друго...</p>"
+
+#: inc/customize-configs/section-news.php:283
+msgid "Custom More News link"
+msgstr "Прилагођена веза за више вести"
+
+#: inc/customize-configs/section-news.php:265
+msgid "More News Page"
+msgstr "Страница са више вести"
+
+#: inc/customize-configs/section-news.php:150
+msgid "Full content"
+msgstr "Пун садржај"
+
+#: inc/customize-configs/section-news.php:149
+msgid "Strip excerpt by more tag"
+msgstr "Скрати одломак помоћу ознаке опширније"
+
+#: inc/customize-configs/section-news.php:148
+msgid "Use excerpt metabox"
+msgstr "Користите мета поља за одломак"
+
+#: inc/customize-configs/section-news.php:147
+msgid "Custom"
+msgstr "Прилагођено"
+
+#: inc/customize-configs/section-news.php:143
+#: inc/customize-configs/section-news.php:167
+msgid "Custom excerpt length"
+msgstr "Прилагођена дужина одломка"
+
+#: inc/customize-configs/section-news.php:125
+msgid "Hide post categories"
+msgstr "Сакриј категорије чланка"
+
+#: inc/customize-configs/options-sections-navigation.php:9
+msgid "Sections Navigation"
+msgstr "Одељци кретања"
+
+#: inc/customize-configs/options-blog-posts.php:34
+msgid "Check this to disable archive prefix on category, date, tag page."
+msgstr "Означите да бисте онемогућили архивски префикс на странама архива категорије, датума и ознака."
+
+#: inc/customize-configs/options-blog-posts.php:15
+msgid "Blog Posts"
+msgstr "Блог чланци"
+
+#: inc/class-sections-navigation.php:266
+msgid "Custom navigation label"
+msgstr "Прилагођена етикета кретања"
+
+#: inc/class-sections-navigation.php:249
+msgid "Inverse dots color"
+msgstr "Боја изврнутих тачака"
+
+#: inc/class-sections-navigation.php:146
+msgid "Dots inverse color"
+msgstr "Изврнута боја тачака"
+
+#: inc/class-sections-navigation.php:125
+msgid "Dots color"
+msgstr "Боја тачака"
+
+#: inc/class-sections-navigation.php:105
+msgid "By default navigation label is section title."
+msgstr "Натпис за кретање је подразумевани наслов одељка."
+
+#: inc/class-sections-navigation.php:104
+msgid "Enable navigation labels"
+msgstr "Омогући натписе за кретање"
+
+#: inc/class-sections-navigation.php:70 inc/class-sections-navigation.php:232
+msgid "Enable in section navigation"
+msgstr "Омогући у одељку за кретање"
+
+#: inc/class-config.php:111
+msgid "Home"
+msgstr "Почетак"
+
+#: inc/admin/dashboard.php:272
+msgid "Create a support ticket"
+msgstr "Направи тикет за подршку"
+
+#: inc/customize-configs/options-header.php:345
+msgid "Transparent Logo Height in Pixel"
+msgstr "Висина транспарентног логоа у пикселима"
+
+#: inc/customize-configs/section-hero.php:542
+msgid "Open Button #2 In New Window"
+msgstr "Отворити дугме #2 у новом прозору"
+
+#: inc/customize-configs/section-hero.php:476
+msgid "Open Button #1 In New Window"
+msgstr "Отворити дугме #1 у новом прозору"
+
+#: inc/metabox.php:173
+msgid "Apply header cover settings for single product."
+msgstr "Применити подешавања заглавља корице појединачног производа."
+
+#: inc/admin/dashboard.php:393
+msgid "Keep %s updated"
+msgstr "Задржати %s ажурирано"
+
+#: inc/admin/dashboard.php:314
+msgid "Your settings were copied."
+msgstr "Ваша подешавања су копирана."
+
+#: inc/metabox.php:164
+msgid "Hide footer."
+msgstr "Сакриј подножје."
+
+#: inc/metabox.php:153
+msgid "Display page excerpt as header cover description."
+msgstr "Приказати одломак странице као опис корице заглавља."
+
+#: inc/metabox.php:147
+msgid "Display featured image as header cover."
+msgstr "Приказати издвојену слику као корицу заглавља."
+
+#: inc/metabox.php:141
+msgid "Hide page title area."
+msgstr "Сакриј наслов простора странице."
+
+#: inc/metabox.php:136
+msgid "Hide header."
+msgstr "Сакриј заглавље."
+
+#: inc/metabox.php:159
+msgid "Hide breadcrumb."
+msgstr "Сакриј \"breadcrumb\"."
+
+#: inc/customize-configs/options-header.php:179
+msgid "Only set if display site tagline."
+msgstr "Поставити само ако је приказан поднаслов сајта."
+
+#: inc/customize-configs/options-header.php:177
+msgid "Site Tagline Color"
+msgstr "Боја поднаслова сајта"
+
+#. Template Name of the theme
+msgid "Full Width - Contained Content"
+msgstr "Пуна ширина - Садржан садржај"
+
+#. Template Name of the theme
+msgid "Full Width - Stretched Content"
+msgstr "Пуна ширина - Раширен садржај"
+
+#: inc/sanitize.php:259
+msgid "Upgrade to %1s to unlock this feature."
+msgstr "Надоградити на %1s како бисте откључали ову особину."
+
+#: inc/metabox.php:38
+msgid "Page Settings"
+msgstr "Подешавања странице"
+
+#: inc/admin/dashboard.php:594
+msgid "Get OnePress Plus now!"
+msgstr "Набавите OnePress Plus сада!"
+
+#: inc/admin/dashboard.php:237
+msgid "Free vs PLUS"
+msgstr "Бесплатно vs PLUS"
+
+#: inc/admin/dashboard.php:235
+msgid "Recommended Actions"
+msgstr "Препоручене акције"
+
+#: inc/customize-configs/section-upsell.php:38
+msgid "OnePress Plus Available! Take a look"
+msgstr "OnePress Plus је доступан! Погледајте"
+
+#: inc/customize-configs/section-upsell.php:28
+msgid "<h4 class=\"customizer-group-heading-message\">Drag &amp; Drop Section Orders</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the frontpage SECTIONS ORDER!</p><h4 class=\"customizer-group-heading-message\">Advanced Section Styling</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ...</p>"
+msgstr "<h4 class=\"customizer-group-heading-message\">Повуци &amp; Пусти Одељак Наруџбине</h4><p class=\"customizer-group-heading-message\">Провери<a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> издање за потпуну контролу над почетном страницом Одељка Нарудџбина</p><h4 class=\"customizer-group-heading-message\">Advandced Section Styling</h4><p class=\"customizer-group-heading-message\">Провери <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> издање за потпуну контролу секције за стилизовање која укључује боју позадине, слике, видео записа, паралакс ефекта, прилагођених стилова и др.</p>"
+
+#: inc/customize-configs/section-news.php:247
+msgid "Ascending"
+msgstr "Узлазни"
+
+#: inc/customize-configs/section-news.php:246
+msgid "Descending"
+msgstr "Силазни"
+
+#: inc/customize-configs/section-news.php:242
+msgid "Order"
+msgstr "Наруџбина"
+
+#: inc/customize-configs/section-news.php:227
+msgid "Random order"
+msgstr "Произвољна наруџбина"
+
+#: inc/customize-configs/section-news.php:226
+msgid "Order by Page Order"
+msgstr "Наруџбина са странице наруџбина"
+
+#: inc/customize-configs/section-news.php:225
+msgid "Comment Count"
+msgstr "Коментарисати бројач"
+
+#: inc/customize-configs/section-news.php:224
+msgid "Date"
+msgstr "Датум"
+
+#: inc/customize-configs/section-news.php:222
+msgid "Author"
+msgstr "Аутор"
+
+#: inc/customize-configs/section-news.php:221
+msgid "ID"
+msgstr "ID"
+
+#: inc/customize-configs/options-single.php:27
+#: inc/customize-configs/section-news.php:220
+msgid "Default"
+msgstr "Подразумевано"
+
+#: inc/customize-configs/section-news.php:216
+msgid "Order By"
+msgstr "Поређај по"
+
+#: inc/customize-configs/section-news.php:200
+msgid "Category to show"
+msgstr "Приказана категорија"
+
+#: inc/customize-configs/section-services.php:214
+msgid "1x"
+msgstr "1x"
+
+#: inc/customize-configs/section-services.php:213
+msgid "2x"
+msgstr "2x"
+
+#: inc/customize-configs/section-services.php:212
+msgid "3x"
+msgstr "3x"
+
+#: inc/customize-configs/section-services.php:211
+msgid "4x"
+msgstr "4x"
+
+#: inc/customize-configs/section-services.php:210
+msgid "5x"
+msgstr "5x"
+
+#: inc/customize-configs/section-services.php:205
+msgid "Icon Size"
+msgstr "Величина иконице"
+
+#: inc/customize-configs/section-about.php:112
+msgid "Layout Settings"
+msgstr "Распоред подешавања"
+
+#: inc/customize-configs/section-hero.php:393
+msgid "Rotating Text Background"
+msgstr "Ротирајући текст позадине"
+
+#: inc/customize-configs/section-hero.php:378
+msgid "Rotating Text Color"
+msgstr "Боја ротирајућег текста"
+
+#: inc/customize-configs/section-hero.php:354
+msgid "We are <span class=\"js-rotating\">OnePress | One Page | Responsive | Perfection</span>"
+msgstr "Ми смо <span class=\"js-rotating\">OnePress | One Page | Responsive | Perfection</span>"
+
+#: inc/customize-configs/section-hero.php:311
+msgid "Want to add <strong>background video</strong> for hero section? Upgrade to <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version."
+msgstr "Желиш да додаш <strong>видео запис као позадину</strong> за hero секцију ? Надогради на <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> издање."
+
+#: inc/customize-configs/section-hero.php:81
+msgid "Disable Preload Icon"
+msgstr "Онемогући иконицу за Preload"
+
+#: inc/customize-configs/options-footer.php:332
+msgid "Footer Copyright"
+msgstr "Copyright подножја"
+
+#: inc/customize-configs/options-footer.php:320
+#: inc/customize-configs/options-footer.php:386
+msgid "Link Hover Color"
+msgstr "Боја Hover везе"
+
+#: inc/customize-configs/options-footer.php:304
+#: inc/customize-configs/options-footer.php:373
+msgid "Link Color"
+msgstr "Боја везе"
+
+#: inc/customize-configs/options-footer.php:287
+msgid "Widget Title Color"
+msgstr "Боја назива виџета"
+
+#: inc/customize-configs/options-footer.php:238
+msgid "Enter int numbers and sum of them must smaller or equal 12, separated by \"+\""
+msgstr "Унеси int бројеве и њихова сума мора бити мања или једнака броју 12, одвојене \"+\""
+
+#: inc/customize-configs/options-footer.php:236
+msgid "Custom footer %s columns width"
+msgstr "Прилагођене ширине  %s колона подножја"
+
+#: inc/customize-configs/options-footer.php:236
+msgid "Custom footer 1 column width"
+msgstr "Прилагођена ширина колона 1 подножја"
+
+#: inc/customize-configs/options-footer.php:212
+msgid "Disable footer widgets"
+msgstr "Онемогући видџете у подножју"
+
+#: inc/customize-configs/options-footer.php:206
+msgid "Number footer columns to display."
+msgstr "Приказ броја колона у подножју."
+
+#: inc/customize-configs/options-footer.php:186
+msgid "Footer Widgets"
+msgstr "Виџети у подножју"
+
+#: inc/customize-configs/options-footer.php:174
+#: inc/customize-configs/options-footer.php:254
+#: inc/customize-configs/options-footer.php:360
+msgid "Text Color"
+msgstr "Боја текста"
+
+#: inc/customize-configs/options-footer.php:78
+#: inc/customize-configs/section-services.php:158
+#: inc/customize-configs/section-features.php:156
+#: inc/customize-configs/section-team.php:153
+#: inc/customize-configs/section-counter.php:131
+#: inc/customize-configs/section-about.php:159
+msgid "Upgrade to <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> to be able to add more items and unlock other premium features!"
+msgstr "Ажурирај<a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> како би се омогућила опција додавања више ставки и откључале додатне премиум фунцкионалности!"
+
+#: inc/customize-configs/options-footer.php:6
+msgid "Footer Socials"
+msgstr "Друштвене мреже у подножју"
+
+#: inc/customize-configs/options-page.php:129
+#: inc/customize-configs/options-page.php:154
+msgid "Right"
+msgstr "Десно"
+
+#: inc/customize-configs/options-page.php:128
+#: inc/customize-configs/options-page.php:153
+msgid "Left"
+msgstr "Лево"
+
+#: inc/customize-configs/options-page.php:130
+#: inc/customize-configs/options-page.php:152
+msgid "Center"
+msgstr "Средиште"
+
+#: inc/customize-configs/options-page.php:83
+msgid "Color"
+msgstr "Боја"
+
+#: inc/customize-configs/options-page.php:65
+msgid "The page cover padding bottom in percent (%)."
+msgstr "Покривање дна корице странице изражене у процентима (%)."
+
+#: inc/customize-configs/options-page.php:64
+msgid "Padding Bottom"
+msgstr "Padding Bottom"
+
+#: inc/customize-configs/options-page.php:48
+msgid "The page cover padding top in percent (%)."
+msgstr "Покривање врха корице странице изражене у процентима (%). "
+
+#: inc/customize-configs/options-page.php:47
+msgid "Padding Top"
+msgstr "Padding Top"
+
+#: inc/customize-configs/options-page.php:32
+msgid "Check this box to disable the page title bar on all pages."
+msgstr "Означите ово поље како бисте онемогућили насловну траку на свим страницама."
+
+#: inc/customize-configs/options-page.php:30
+msgid "Disable Page Title bar?"
+msgstr "Онемогућити насловну траку странице?"
+
+#: inc/customize-configs/options-page.php:12
+msgid "Page Title Area"
+msgstr "Насловни простор странице"
+
+#: inc/customize-configs/options-navigation.php:22
+msgid "Padding left and right for Navigation items (pixels)."
+msgstr "Padding лево и десно за ставке кретања (пискели)."
+
+#: inc/customize-configs/options-navigation.php:21
+msgid "Menu Item Padding"
+msgstr "Padding ставки изборника "
+
+#: inc/customize-configs/options-navigation.php:7
+msgid "Navigation"
+msgstr "Кретање"
+
+#: inc/customize-configs/options-header.php:382
+msgid "Transparent Site Tagline Color"
+msgstr "Боја транспарентног тagline-а сајта "
+
+#: inc/customize-configs/options-header.php:363
+msgid "Transparent Site Title Color"
+msgstr "Боја транспарентног тagline-а сајта"
+
+#: inc/customize-configs/options-header.php:325
+msgid "Transparent Retina Logo"
+msgstr "Транспарентни ретина лого"
+
+#: inc/customize-configs/options-header.php:306
+#: inc/customize-configs/options-header.php:326
+msgid "Only apply when transparent header option is checked."
+msgstr "Применити само у случају када је означена опција транспаретног заглавља."
+
+#: inc/customize-configs/options-header.php:304
+msgid "Transparent Logo"
+msgstr "Транспарентан лого"
+
+#: inc/customize-configs/options-header.php:60
+msgid "Below Hero Slider"
+msgstr "Слајдер испод Hero-а"
+
+#: inc/customize-configs/options-header.php:59
+msgid "Top"
+msgstr "Горе"
+
+#: inc/customize-configs/options-header.php:56
+msgid "Header Position"
+msgstr "Позиција заглавља"
+
+#: inc/customize-configs/options-header.php:36
+msgid "Contained"
+msgstr "Садржано"
+
+#: inc/customize-configs/options-header.php:32
+msgid "Header Width"
+msgstr "Ширина заглавља"
+
+#: inc/customize-configs/options-global.php:83
+msgid "Check this if you want to disable default google fonts in theme."
+msgstr "Означите ово ако желите да онемогућите подразумеване гугл фонтове у теми."
+
+#: inc/customize-configs/options-global.php:81
+msgid "Disable Google Fonts"
+msgstr "Онемогући гугл фонтове"
+
+#: inc/customize-configs/site-identity.php:70
+msgid "Logo Height In Pixel"
+msgstr "Висина логоа у пикселима"
+
+#: inc/customize-configs/site-identity.php:52
+msgid "Retina Logo"
+msgstr "Ретина лого"
+
+#: inc/customize-controls/control-category.php:28
+msgid "All"
+msgstr "Сви"
+
+#: functions.php:196
+msgid "Footer %s"
+msgstr "Подножје %s"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Мисао о &ldquo;%2$s&rdquo;"
+
+#: inc/customize-configs/options-single.php:79
+msgid "Check this box to show single post meta such as post date, author, category,..."
+msgstr "Означите ово поље за приказ мета података за један чланак као што су датум чланка, аутор, категорија,..."
+
+#: inc/customize-configs/options-single.php:77
+msgid "Show single post meta"
+msgstr "Прикажи мету за један чланак"
+
+#: inc/customize-configs/options-single.php:64
+msgid "Check this box to show post thumbnail on single post."
+msgstr "Означите ово поље како бисте приказали thumbnail чланка за један чланак."
+
+#: inc/customize-configs/options-single.php:62
+msgid "Show single post thumbnail"
+msgstr "Прикажи thumbnail за један чланак"
+
+#: inc/customize-configs/options-single.php:8
+msgid "Single Post"
+msgstr "Један чланак"
+
+#: inc/customize-configs/section-hero.php:203
+msgid "The amount of time in between slides, expressed as the number of milliseconds."
+msgstr "Количина времена између слајдова, изражена као број у милисекундама."
+
+#: inc/customize-configs/section-hero.php:202
+msgid "Slider duration speed"
+msgstr "Брзина трајања слајдера"
+
+#: inc/customize-configs/section-hero.php:186
+msgid "This is the speed at which the image will fade in. Integers in milliseconds are accepted."
+msgstr "Ово је брзина којом ће се слика убрзати. Интеџери у милисекундама су прихваћени."
+
+#: inc/customize-configs/section-hero.php:185
+msgid "Slider animation speed"
+msgstr "Брзина анимације слајдера"
+
+#: inc/customize-configs/section-hero.php:167
+msgid "Text animation speed"
+msgstr "Брзина анимације текста"
+
+#: inc/admin/dashboard.php:292
+msgid "Child theme uses it's own theme setting name, would you like to copy setting data from parent theme to this child theme?"
+msgstr "Child тема користи сопствена подешавања имена теме, желите ли да копирате подешавања из parent теме у child тему?"
+
+#: inc/customizer.php:197
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/customizer.php:193
+msgid "Search"
+msgstr "Претрага"
+
+#: inc/admin/dashboard.php:672
+msgid "Are you sure want to copy ?"
+msgstr "Да ли сте сигурни да желите да копирате?"
+
+#: inc/admin/dashboard.php:331
+msgid "Recommend Plugins"
+msgstr "Препоручени додаци"
+
+#: inc/admin/dashboard.php:311
+msgid "Copy now"
+msgstr "Копирај сад"
+
+#: inc/admin/dashboard.php:303
+msgid "To Theme"
+msgstr "До теме"
+
+#: inc/admin/dashboard.php:297
+msgid "From Theme"
+msgstr "Од теме"
+
+#: inc/admin/dashboard.php:290
+msgid "You're using %1$s theme, It's a child theme of OnePress"
+msgstr "Користите %1$s тему, то је child тема OnePress"
+
+#: inc/admin/dashboard.php:740
+msgid "Details"
+msgstr "Детаљи"
+
+#: inc/admin/dashboard.php:118
+msgid "Import Demo Data"
+msgstr "Увези Demo податке"
+
+#: inc/admin/dashboard.php:118
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "Уштедите време тако што ћете импортовати наше демо податке, ваш веб сајт ће бити спреман за коришћење у пар минута. %s"
+
+#: inc/customize-configs/section-gallery.php:366
+msgid "Read More Text"
+msgstr "Текст прочитај више"
+
+#: section-parts/section-gallery.php:38
+#: inc/customize-configs/section-gallery.php:360
+msgid "View More"
+msgstr "Прочитај више"
+
+#: inc/customize-configs/section-gallery.php:349
+msgid "Read More Link"
+msgstr "Веза прочитај више"
+
+#: inc/customize-configs/options-global.php:31
+msgid "No sidebar"
+msgstr "Без бочне траке"
+
+#: inc/customize-configs/options-global.php:30
+msgid "Left sidebar"
+msgstr "Лева бочна трака"
+
+#: inc/customize-configs/options-global.php:29
+msgid "Right sidebar"
+msgstr "Десна бочна трака"
+
+#: inc/customize-configs/options-global.php:26
+msgid "Site Layout, apply for all pages, exclude home page and custom page templates."
+msgstr "Распоред сајта, примени за све странице, изузми почетну страницу и прилагођене шаблоне страница."
+
+#: inc/customize-configs/options-global.php:25
+msgid "Site Layout"
+msgstr "Распоред сајта"
+
+#: functions.php:111
+msgid "Famethemes Demo Importer"
+msgstr "Famethemes Demo Importer"
+
+#: functions.php:183
+msgid "WooCommerce Sidebar"
+msgstr "Бочна трака за Вукомерц"
+
+#: inc/customize-configs/section-services.php:120
+#: inc/customize-configs/section-about.php:120
+msgid "1 Column"
+msgstr "1 Колона"
+
+#: inc/customize-configs/section-gallery.php:313
+msgid "Enable Lightbox"
+msgstr "Омогући Lightbox"
+
+#: inc/customize-configs/section-gallery.php:297
+msgid "Number items"
+msgstr "Број ставки"
+
+#: inc/customize-configs/section-gallery.php:270
+msgid "Layout columns"
+msgstr "Распоред колона"
+
+#: inc/customize-configs/section-gallery.php:252
+msgid "Row Height"
+msgstr "Висина реда"
+
+#: inc/customize-configs/section-gallery.php:234
+msgid "Item Spacing"
+msgstr "Размак између ставки"
+
+#: inc/customize-configs/section-gallery.php:218
+msgid "Masonry"
+msgstr "Masonry"
+
+#: inc/customize-configs/section-gallery.php:217
+msgid "Justified"
+msgstr "Justified"
+
+#: inc/customize-configs/section-gallery.php:216 inc/class-config.php:51
+msgid "Slider"
+msgstr "Слајдер"
+
+#: inc/customize-configs/section-gallery.php:215
+msgid "Carousel"
+msgstr "Carousel"
+
+#: inc/customize-configs/section-gallery.php:214
+msgid "Grid"
+msgstr "Мрежа"
+
+#: inc/customize-configs/section-gallery.php:209
+msgid "Display"
+msgstr "Приказ"
+
+#: inc/customize-configs/section-gallery.php:192
+msgid "Default, inside container"
+msgstr "Подразумеван, унутрашњи контејнер"
+
+#: inc/customize-configs/options-footer.php:203
+#: inc/customize-configs/section-gallery.php:187
+msgid "Layout"
+msgstr "Распоред"
+
+#: inc/customize-configs/section-gallery.php:166
+msgid "Select Gallery Page"
+msgstr "Означи страницу Галерија"
+
+#: inc/customize-configs/section-gallery.php:147
+msgid "Page"
+msgstr "Страница"
+
+#: inc/customize-configs/section-gallery.php:142
+msgid "Select Gallery Source"
+msgstr "Означи извор Галерије"
+
+#: section-parts/section-gallery.php:4
+#: inc/customize-configs/section-gallery.php:68 inc/class-config.php:142
+msgid "Gallery"
+msgstr "Галерија"
+
+#: section-parts/section-gallery.php:2
+#: inc/customize-configs/section-gallery.php:51
+msgid "gallery"
+msgstr "галерија"
+
+#: inc/customize-configs/section-gallery.php:12 inc/class-config.php:141
+msgid "Section: Gallery"
+msgstr "Одељак: Галерија"
+
+#: inc/customize-configs/options-header.php:116
+msgid "Scroll to top when click to the site logo or site title, only apply on front page."
+msgstr "Скролуј на горе када се кликне лого сајта или наслов сајта, примени само на почетну страницу."
+
+#: inc/admin/dashboard.php:652
+msgid "FameThemes Demo Importer"
+msgstr "FameThemes Demo Importer"
+
+#: inc/admin/dashboard.php:651
+msgid "Hey."
+msgstr "Здраво."
+
+#: inc/admin/dashboard.php:649
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr "%1$s прво је потребно инсталирати и активирати %2$s додатак."
+
+#: inc/admin/dashboard.php:633 inc/admin/dashboard.php:720
+msgid "Active Now"
+msgstr "Укључен сад"
+
+#: inc/admin/dashboard.php:611 inc/admin/dashboard.php:698
+msgid "Install Now"
+msgstr "Поставити сада"
+
+#: inc/customize-configs/section-hero.php:519
+msgid "Button #2 style"
+msgstr "Стил за дугме #2"
+
+#: inc/customize-configs/section-news.php:297
+msgid "More News Button Text"
+msgstr "Текст за дугме више вести"
+
+#: inc/customize-configs/section-news.php:268
+msgid "It should be your blog page link."
+msgstr "Ово би требало бити ваша веза блог странице."
+
+#: inc/customize-configs/section-hero.php:464
+#: inc/customize-configs/section-hero.php:530
+msgid "Danger"
+msgstr "Опасност"
+
+#: inc/customize-configs/section-hero.php:463
+#: inc/customize-configs/section-hero.php:529
+msgid "Warning"
+msgstr "Упозорење"
+
+#: inc/customize-configs/section-hero.php:462
+#: inc/customize-configs/section-hero.php:528
+msgid "Info"
+msgstr "Информација"
+
+#: inc/customize-configs/section-hero.php:461
+#: inc/customize-configs/section-hero.php:527
+msgid "Success"
+msgstr "Успех"
+
+#: inc/customize-configs/section-hero.php:460
+#: inc/customize-configs/section-hero.php:526
+msgid "Primary"
+msgstr "Примарно"
+
+#: inc/customize-configs/section-hero.php:459
+#: inc/customize-configs/section-hero.php:525
+msgid "Button"
+msgstr "Дугме"
+
+#: inc/customize-configs/section-hero.php:458
+#: inc/customize-configs/section-hero.php:524
+msgid "Button Secondary"
+msgstr "Секундарно дугме"
+
+#: inc/customize-configs/section-hero.php:457
+#: inc/customize-configs/section-hero.php:523
+msgid "Button Primary"
+msgstr "Примарно дугме"
+
+#: inc/customize-configs/section-hero.php:453
+msgid "Button #1 style"
+msgstr "Дугме #1 стил"
+
+#: inc/customize-configs/section-hero.php:113
+msgid "The hero content padding bottom in percent (%)."
+msgstr "Приказ садржаја hero padding bottom у процентима (%)."
+
+#: inc/customize-configs/section-hero.php:97
+msgid "The hero content padding top in percent (%)."
+msgstr "Приказ садржаја hero content padding top у процентима (%)."
+
+#: inc/customize-configs/section-hero.php:168
+msgid "The delay between the changing of each phrase in milliseconds."
+msgstr "Кашњење између промене сваке фразе у милисекундама."
+
+#: inc/customize-configs/options-footer.php:147
+msgid "The newsletter form use MailChimp, please follow <a target=\"_blank\" href=\"https://mailchimp.com/help/host-your-own-signup-forms/\">this guide</a> to know how to get MailChimp Action URL. Example <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+msgstr "Образац билтена користи MailChimp, молимо пратите <a target=\"_blank\" href=\"https://mailchimp.com/help/host-your-own-signup-forms/\">овај водич</a> како бисте пронашли MailChimp Action URL. Пример <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+
+#: inc/customize-configs/site-identity.php:32
+msgid "Hide site tagline"
+msgstr "Сакриј поднаслов сајта"
+
+#: inc/customize-configs/site-identity.php:17
+msgid "Hide site title"
+msgstr "Сакриј назив сајта"
+
+#: inc/customize-configs/section-services.php:165
+#: inc/customize-configs/section-features.php:167
+msgid "image"
+msgstr "Слика"
+
+#: inc/customize-configs/section-hero.php:148
+msgid "Text animation"
+msgstr "Анимација текста"
+
+#: inc/admin/dashboard.php:87
+msgid "OnePress Theme %s"
+msgstr "OnePress тема %s"
+
+#: inc/admin/dashboard.php:85
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s потребна акција"
+msgstr[1] "%1$s потребна акција"
+msgstr[2] "%1$s потребна акција"
+
+#: inc/customize-configs/options.php:26 inc/customize-configs/options.php:44
+msgid "Custom CSS"
+msgstr "Прилагођени CSS"
+
+#: section-parts/section-features.php:5
+msgid "Why choose Us"
+msgstr "Зашто одабрати нас"
+
+#: inc/customize-configs/section-services.php:112
+msgid "Services Layout Settings"
+msgstr "Распоред подешавања услуга"
+
+#: inc/customize-configs/section-features.php:185
+#: inc/customize-configs/section-news.php:267
+#: inc/customize-configs/section-team.php:161
+msgid "Custom Link"
+msgstr "Прилагођенa везa"
+
+#: inc/customize-configs/section-features.php:181
+msgid "Description"
+msgstr "Опис"
+
+#: inc/customize-configs/section-features.php:150
+msgid "Features content"
+msgstr "Садржај особина"
+
+#: inc/customize-configs/section-features.php:111
+msgid "Features Layout Setting"
+msgstr "Подешавања особина распореда"
+
+#: section-parts/section-features.php:4
+#: inc/customize-configs/section-features.php:58 inc/class-config.php:136
+msgid "Features"
+msgstr "Особине"
+
+#: section-parts/section-features.php:2
+#: inc/customize-configs/section-features.php:43
+msgid "features"
+msgstr "особине"
+
+#: inc/customize-configs/section-features.php:8 inc/class-config.php:135
+msgid "Section: Features"
+msgstr "Одељак: Особине"
+
+#: inc/customize-configs/section-services.php:95
+#: inc/customize-configs/section-features.php:95
+#: inc/customize-configs/section-gallery.php:110
+#: inc/customize-configs/section-news.php:95
+#: inc/customize-configs/section-team.php:94
+#: inc/customize-configs/section-counter.php:94
+#: inc/customize-configs/section-about.php:95
+#: inc/customize-configs/section-contact.php:95
+msgid "Section Description"
+msgstr "Одељак Oпис"
+
+#: inc/customize-configs/section-hero.php:581
+#: inc/customize-configs/section-services.php:174
+#: inc/customize-configs/section-features.php:176
+msgid "Image"
+msgstr "Слика"
+
+#: inc/customize-configs/section-hero.php:563
+msgid "Content Text"
+msgstr "Текст садржаја"
+
+#: inc/customize-configs/section-hero.php:343
+msgid "Layout 2"
+msgstr "Распоред 2"
+
+#: inc/customize-configs/section-hero.php:342
+msgid "Layout 1"
+msgstr "Распоред 1"
+
+#: inc/customize-configs/section-hero.php:337
+msgid "Display Layout"
+msgstr "Прикажи распоред"
+
+#: inc/customize-configs/options-footer.php:89
+msgid "URL"
+msgstr "УРЛ"
+
+#: inc/customize-configs/options-footer.php:85
+#: inc/customize-configs/section-services.php:164
+#: inc/customize-configs/section-services.php:169
+#: inc/customize-configs/section-features.php:166
+#: inc/customize-configs/section-features.php:171
+msgid "Icon"
+msgstr "Иконица"
+
+#: inc/customize-configs/options-footer.php:81
+msgid "Social network"
+msgstr "Друштвена мрежа"
+
+#: inc/customize-configs/options-footer.php:72
+msgid "Socials"
+msgstr "Друштвене"
+
+#: inc/customize-configs/options-header.php:286
+msgid "Apply for front page template only."
+msgstr "Применити само за шаблон почетне странице"
+
+#: inc/customize-configs/options-header.php:284
+msgid "Header Transparent"
+msgstr "Транспарентно заглавље"
+
+#: inc/template-tags.php:1792
+msgid "Subscribe"
+msgstr "Претплати се"
+
+#: inc/template-tags.php:1791
+msgid "Enter your e-mail address"
+msgstr "Унесите вашу е-мејл адресу"
+
+#: inc/admin/dashboard.php:270
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "Подршка за %s Вордпрес тему спроводи се кроз FameThemes тикет систем подршке."
+
+#: inc/admin/dashboard.php:264
+msgid "OnePress Documentation"
+msgstr "OnePress Документација "
+
+#: inc/customize-configs/section-services.php:119
+#: inc/customize-configs/section-features.php:118
+#: inc/customize-configs/section-team.php:117
+#: inc/customize-configs/section-about.php:119
+msgid "2 Columns"
+msgstr "2 Колоне"
+
+#: inc/customize-configs/section-services.php:118
+#: inc/customize-configs/section-features.php:117
+#: inc/customize-configs/section-team.php:116
+#: inc/customize-configs/section-about.php:118
+msgid "3 Columns"
+msgstr "3 Колоне"
+
+#: inc/customize-configs/section-services.php:117
+#: inc/customize-configs/section-features.php:116
+#: inc/customize-configs/section-team.php:115
+#: inc/customize-configs/section-about.php:117
+msgid "4 Columns"
+msgstr "4 Колоне"
+
+#: inc/customize-configs/section-team.php:110
+msgid "Team Layout Settings"
+msgstr "Распоред подешавања за тим"
+
+#: inc/customize-configs/section-services.php:235
+#: inc/customize-configs/section-features.php:210
+#: inc/customize-configs/section-about.php:196
+msgid "Page Excerpt"
+msgstr "Одломак стране"
+
+#: inc/customize-configs/section-services.php:234
+#: inc/customize-configs/section-features.php:209
+#: inc/customize-configs/section-about.php:195
+msgid "Full Page Content"
+msgstr "Пун садржај за страницу"
+
+#: inc/customize-configs/section-services.php:229
+#: inc/customize-configs/section-features.php:204
+#: inc/customize-configs/section-about.php:190
+msgid "Item content source"
+msgstr "Озвор ставки"
+
+#: inc/customize-configs/section-about.php:153
+msgid "About content page"
+msgstr "Садржај за страницу About"
+
+#: inc/customize-configs/section-hero.php:293
+msgid "Enable parallax effect (apply for first BG image only)"
+msgstr "Омогучи паралакс ефекат (применити само за прву слику позадине)"
+
+#: inc/customize-configs/options-header.php:99
+msgid "If you use logo and your logo is too tall, check this box to auto vertical align menu."
+msgstr "Ако користите лого и лого је превисок, означите ово поље како би се аутоматски прилагодио изборнику."
+
+#: inc/customize-configs/options-header.php:97
+msgid "Center vertical align for menu"
+msgstr "Вертикално-центрирано поравнање за изборник"
+
+#: inc/customize-configs/options-header.php:262
+msgid "Responsive Menu Button Color"
+msgstr "Боја одговарајућег дугмета за изборник"
+
+#: inc/customize-configs/options-header.php:241
+msgid "Menu Link Hover/Active BG Color"
+msgstr "Боја веза изборника Hover/Active BG"
+
+#: inc/customize-configs/options-header.php:219
+msgid "Menu Link Hover/Active Color"
+msgstr "Боја везе изборника Hover/Active Color"
+
+#: inc/customize-configs/options-header.php:198
+msgid "Menu Link Color"
+msgstr "Боја везе изборника"
+
+#: inc/customize-configs/options-header.php:159
+msgid "Only set if you don't use an image logo."
+msgstr "Поставити само ако не користите слику логоа."
+
+#: inc/customize-configs/options-header.php:157
+msgid "Site Title Color"
+msgstr "Боја наслова веб места"
+
+#: inc/customize-configs/options-footer.php:270
+#: inc/customize-configs/options-header.php:135
+msgid "Background Color"
+msgstr "Позадинска боја"
+
+#: inc/customize-configs/options-header.php:12
+msgid "Header"
+msgstr "Заглавље"
+
+#: inc/customize-configs/options-colors.php:28
+msgid "Primary Color"
+msgstr "Примарна боја"
+
+#: inc/customize-configs/options-colors.php:9
+msgid "Site Colors"
+msgstr "Боје сајта"
+
+#: inc/customize-configs/section-team.php:156
+msgid "User media"
+msgstr "Кориснички медији"
+
+#: inc/customize-configs/section-videolightbox.php:98
+msgid "Background image"
+msgstr "Слика у позадини"
+
+#: inc/customize-configs/section-videolightbox.php:83
+msgid "Paste Youtube or Vimeo url here"
+msgstr "Залепи URL Youtube или Vimeo-а овде"
+
+#: inc/customize-configs/section-videolightbox.php:81
+msgid "Video url"
+msgstr "URL видео записа"
+
+#: inc/customize-configs/section-videolightbox.php:66
+msgid "Section heading"
+msgstr "Одељак наслова"
+
+#: inc/customize-configs/section-videolightbox.php:8 inc/class-config.php:165
+msgid "Section: Video Lightbox"
+msgstr "Одељак: Lightbox видео записа"
+
+#: inc/admin/dashboard.php:394
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Урааа! Нема више неопходних активности."
+
+#: inc/admin/dashboard.php:384
+msgid "Change homepage page template"
+msgstr "Изменити шаблон почетне странице"
+
+#: inc/admin/dashboard.php:370
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "Како бисте променили садржај одељка на почетној страници, потребно је да поставите шаблон \"Frontpage\" као почетну страницу.  "
+
+#: inc/admin/dashboard.php:367
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Поставите шаблон почетне странице на \"Frontpage\"."
+
+#: inc/admin/dashboard.php:353 inc/admin/dashboard.php:377
+msgid "Setup front page displays"
+msgstr "Подешавање приказа почетне стране"
+
+#: inc/admin/dashboard.php:350
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "Како бисте омогућили приказ једне странице за ваш веб сајт, молимо вас отворите Customize -&gt; Static Front Page и промените \"Front page displays\" на \"A static page\"."
+
+#: inc/admin/dashboard.php:348
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Изменити \"Front page displays\" на \"A static page\""
+
+#: inc/admin/dashboard.php:341 inc/admin/dashboard.php:360
+msgid "Dismiss"
+msgstr "Одбаци"
+
+#: inc/admin/dashboard.php:227
+msgid "Welcome to OnePress - Version %1s"
+msgstr "Добро дошли на OnePress - Издање %1s"
+
+#: inc/admin/dashboard.php:109
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "Доброд ошли! Хвала вам што сте изабрали %1$s! Како бисте најбоље искористили све шта наша тема нуди, молимо вас посетите нашу <a href=\"%2$s\">страницу добродошлице</a>"
+
+#: inc/admin/dashboard.php:89
+msgid "OnePress Theme"
+msgstr "OnePress тема"
+
+#: inc/admin/dashboard.php:92
+msgid "OnePress Dashboard"
+msgstr "OnePress контролна табла"
+
+#: inc/customize-configs/section-hero.php:274
+#: inc/customize-configs/options-page.php:102
+msgid "Background Overlay Color"
+msgstr "Боја позадинског прекривача"
+
+#: inc/customize-configs/section-upsell.php:13
+msgid "Section Order & Styling"
+msgstr "Одељак Наруџбина и стилизовање"
+
+#: inc/customize-configs/options-header.php:80
+msgid "Check this box to disable sticky header when scroll."
+msgstr "Означите ово поље како бисте онемогућили лепљиво заглавље приликом скрола."
+
+#: inc/customize-configs/options-header.php:78
+msgid "Disable Sticky Header?"
+msgstr "Онемогући лепљиво заглавље"
+
+#. Template Name of the theme
+#: inc/customize-configs/options-single.php:29
+msgid "Left Sidebar"
+msgstr "Лева бочна трака"
+
+#: inc/customize-configs/section-gallery.php:193
+#: inc/customize-configs/options-header.php:35
+msgid "Full Width"
+msgstr "Пуна ширина"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Почетна страница"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Изгледа да не можемо да пронађемо оно што сте тражили. Можда ће претраживање помоћи."
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Жао нам је, али ништа не одговара вашем упиту. Молимо вас да покушате поново са другим кључним речима."
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Спремни сте да објавите свој први чланак? <a href=\"%1$s\">Започните овде</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Није пронађено"
+
+#: template-parts/content-single.php:35 template-parts/content-page.php:21
+#: template-parts/content-list.php:78 template-parts/content.php:47
+msgid "Pages:"
+msgstr "Странице:"
+
+#: section-parts/section-hero.php:94
+msgid "#services"
+msgstr "#services"
+
+#: section-parts/section-contact.php:52
+msgid "You can install %1$s plugin and go to Customizer &rarr; Section: Contact &rarr; Section Content to show a working contact form here."
+msgstr "Можете инсталирати %1$s додатак и отићи на Customizer &rarr; Одељак: Контакт &rarr; Одељак Садржај како бисте приказали образац за контакт"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Резултати претраживања за: %s"
+
+#: inc/template-tags.php:497
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар чека преглед."
+
+#: inc/template-tags.php:492
+msgid "Edit"
+msgstr "Уреди"
+
+#: inc/template-tags.php:485
+msgid "Reply"
+msgstr "Одговор"
+
+#: inc/template-tags.php:472
+msgid "Post author"
+msgstr "Аутор чланка"
+
+#: inc/template-tags.php:452
+msgid "(Edit)"
+msgstr "(Уреди)"
+
+#: inc/template-tags.php:452
+msgid "Pingback:"
+msgstr "Повратни пинг:"
+
+#: inc/template-tags.php:370
+msgid "% Comments"
+msgstr "% Коментара"
+
+#: inc/template-tags.php:370
+msgid "1 Comment"
+msgstr "1 Коментар"
+
+#: inc/template-tags.php:370
+msgid "Leave a comment"
+msgstr "Оставите коментар"
+
+#: inc/template-tags.php:364
+msgid "Tagged %1$s"
+msgstr "Означено %1$s"
+
+#: inc/template-tags.php:358
+msgid "Posted in %1$s"
+msgstr "Постављено у %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:356 inc/template-tags.php:362
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:336
+msgctxt "post author"
+msgid "by %s"
+msgstr "од %s"
+
+#: inc/template-tags.php:331
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "објављено %s"
+
+#: inc/admin/dashboard.php:269
+msgid "Having Trouble, Need Support?"
+msgstr "Имате проблема, потребна вам је подршка?"
+
+#: inc/admin/dashboard.php:262
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Да ли вам је отребна помоћ приликом подешавања и конфигурације %s? Погледајте наше инструкције у документацији."
+
+#: inc/admin/dashboard.php:261
+msgid "Theme Documentation"
+msgstr "Документација теме"
+
+#: inc/admin/dashboard.php:257
+msgid "Start Customize"
+msgstr "Започни прилагођавање"
+
+#: inc/admin/dashboard.php:255
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s подржава темин прилагођавач за сва подешавања у теми. Кликните на \"Customize\" како бисте започели прилагођавање вашег сајта."
+
+#: inc/admin/dashboard.php:254
+msgid "Theme Customizer"
+msgstr "Прилагођавач теме"
+
+#: inc/admin/dashboard.php:228
+msgid "OnePress is a creative and flexible WordPress ONE PAGE theme well suited for business, portfolio, digital agency, product showcase, freelancers websites."
+msgstr "OnePress је креативна и флексибилна Вордпрес One Page тема погодна за бизнис, портфолио, дигиталне агенције, изложбу производа, веб странице фриленсера."
+
+#: inc/customize-configs/section-contact.php:253
+msgid "Fax"
+msgstr "Факс"
+
+#: inc/customize-configs/section-contact.php:238
+msgid "Email"
+msgstr "Електронска пошта"
+
+#: inc/customize-configs/section-contact.php:223
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/customize-configs/section-contact.php:208
+msgid "Address"
+msgstr "Адреса"
+
+#: inc/customize-configs/section-contact.php:193
+msgid "Contact Box Title"
+msgstr "Наслов контактне кутије"
+
+#: inc/customize-configs/section-contact.php:169
+msgid "Contact Text"
+msgstr "Текст за контакт"
+
+#: inc/customize-configs/section-contact.php:154
+msgid "Check this box to hide contact form."
+msgstr "Означити ово поље за скривање контакт обрасца."
+
+#: inc/customize-configs/section-contact.php:152
+msgid "Hide contact form completely."
+msgstr "Комплетно сакријте образац за контакт."
+
+#: inc/customize-configs/section-contact.php:136
+msgid "Contact Form Shortcode."
+msgstr "Shortcode образац за контакт"
+
+#: section-parts/section-contact.php:4
+#: inc/customize-configs/section-contact.php:58 inc/class-config.php:123
+msgid "Get in touch"
+msgstr "Ступите у контакт"
+
+#: section-parts/section-contact.php:2
+#: inc/customize-configs/section-contact.php:43
+msgid "contact"
+msgstr "контакт"
+
+#: inc/customize-configs/section-contact.php:8 inc/class-config.php:122
+msgid "Section: Contact"
+msgstr "Одељак: Контакт"
+
+#: section-parts/section-news.php:16 inc/customize-configs/section-news.php:292
+msgid "Read Our Blog"
+msgstr "Читајте наш блог"
+
+#: inc/customize-configs/section-news.php:183
+msgid "Number of post to show"
+msgstr "Број чланака за приказ"
+
+#: section-parts/section-news.php:11 inc/customize-configs/section-news.php:58
+#: inc/class-config.php:148
+msgid "Latest News"
+msgstr "Последње вести"
+
+#: section-parts/section-news.php:2 inc/customize-configs/section-news.php:43
+msgid "news"
+msgstr "вести"
+
+#: inc/customize-configs/section-news.php:8 inc/class-config.php:147
+msgid "Section: News"
+msgstr "Одељак: Вести"
+
+#: inc/customize-configs/section-team.php:147
+msgid "Team members"
+msgstr "Чланови тима"
+
+#: section-parts/section-team.php:4 inc/customize-configs/section-team.php:57
+#: inc/class-config.php:160
+msgid "Our Team"
+msgstr "Наш Тим"
+
+#: section-parts/section-team.php:2 inc/customize-configs/section-team.php:42
+msgid "team"
+msgstr "тим"
+
+#: inc/customize-configs/section-team.php:8 inc/class-config.php:159
+msgid "Section: Team"
+msgstr "Одељак: Тим"
+
+#: inc/customize-configs/section-counter.php:150
+msgid "After number"
+msgstr "Број после"
+
+#: inc/customize-configs/section-counter.php:145
+msgid "Before number"
+msgstr "Број пре"
+
+#: inc/customize-configs/section-counter.php:140
+msgid "Number"
+msgstr "Број"
+
+#: inc/customize-configs/section-counter.php:137
+msgid "Your counter label"
+msgstr "Етикета бројача"
+
+#: inc/customize-configs/section-features.php:159
+#: inc/customize-configs/section-news.php:223
+#: inc/customize-configs/section-counter.php:134
+msgid "Title"
+msgstr "Назив"
+
+#: inc/customize-configs/section-counter.php:125
+msgid "Counter content"
+msgstr "Садржај бројача"
+
+#: section-parts/section-counter.php:4
+#: inc/customize-configs/section-counter.php:57 inc/class-config.php:130
+msgid "Our Numbers"
+msgstr "Наше бројке"
+
+#: section-parts/section-counter.php:2
+#: inc/customize-configs/section-counter.php:42
+msgid "counter"
+msgstr "бројач"
+
+#: inc/customize-configs/section-counter.php:8 inc/class-config.php:129
+msgid "Section: Counter"
+msgstr "Одељак: Бројач"
+
+#: inc/customize-configs/section-services.php:161
+#: inc/customize-configs/section-features.php:163
+msgid "Custom icon"
+msgstr "Прилагођена иконица"
+
+#: inc/customize-configs/section-services.php:152
+msgid "Service content"
+msgstr "Садржај услуга"
+
+#: section-parts/section-hero.php:93 section-parts/section-services.php:4
+#: inc/customize-configs/section-services.php:58 inc/class-config.php:154
+msgid "Our Services"
+msgstr "Наше услуге"
+
+#: section-parts/section-services.php:2
+#: inc/customize-configs/section-services.php:43
+msgid "services"
+msgstr "услуге"
+
+#: inc/customize-configs/section-services.php:8 inc/class-config.php:153
+msgid "Section: Services"
+msgstr "Одељак: Сервиси"
+
+#: inc/customize-configs/section-services.php:185
+#: inc/customize-configs/section-about.php:171
+msgid "Link to single page"
+msgstr "Веза до јединствене странице"
+
+#: inc/customize-configs/section-about.php:167
+msgid "Hide item title"
+msgstr "Сакриј наслов ставке"
+
+#: inc/customize-configs/section-services.php:180
+#: inc/customize-configs/section-about.php:162
+msgid "Select a page"
+msgstr "Означи страницу"
+
+#: inc/customize-configs/options-footer.php:76
+#: inc/customize-configs/section-services.php:156
+#: inc/customize-configs/section-features.php:154
+#: inc/customize-configs/section-team.php:151
+#: inc/customize-configs/section-counter.php:129
+#: inc/customize-configs/section-about.php:157
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customize-configs/section-services.php:132
+#: inc/customize-configs/section-features.php:130
+#: inc/customize-configs/section-gallery.php:125
+#: inc/customize-configs/section-team.php:127
+#: inc/customize-configs/section-counter.php:105
+#: inc/customize-configs/section-about.php:132
+#: inc/customize-configs/section-contact.php:108
+msgid "Section Content"
+msgstr "Одељак садржај"
+
+#: inc/customize-configs/section-services.php:78
+#: inc/customize-configs/section-features.php:78
+#: inc/customize-configs/section-gallery.php:91
+#: inc/customize-configs/section-news.php:78
+#: inc/customize-configs/section-team.php:77
+#: inc/customize-configs/section-counter.php:77
+#: inc/customize-configs/section-about.php:78
+#: inc/customize-configs/section-contact.php:78
+msgid "Section Subtitle"
+msgstr "Одељак Поднаслов"
+
+#: section-parts/section-services.php:5 section-parts/section-gallery.php:5
+#: section-parts/section-news.php:12 section-parts/section-team.php:5
+#: section-parts/section-counter.php:5 section-parts/section-about.php:5
+#: section-parts/section-contact.php:5
+#: inc/customize-configs/section-services.php:73
+#: inc/customize-configs/section-features.php:73
+#: inc/customize-configs/section-gallery.php:85
+#: inc/customize-configs/section-news.php:73
+#: inc/customize-configs/section-team.php:72
+#: inc/customize-configs/section-counter.php:72
+#: inc/customize-configs/section-about.php:73
+#: inc/customize-configs/section-contact.php:73
+msgid "Section subtitle"
+msgstr "Одељак поднаслов"
+
+#: inc/customize-configs/section-services.php:63
+#: inc/customize-configs/section-features.php:63
+#: inc/customize-configs/section-gallery.php:74
+#: inc/customize-configs/section-news.php:63
+#: inc/customize-configs/section-team.php:62
+#: inc/customize-configs/section-counter.php:62
+#: inc/customize-configs/section-about.php:63
+#: inc/customize-configs/section-contact.php:63
+msgid "Section Title"
+msgstr "Одељак Наслов"
+
+#: section-parts/section-about.php:2 inc/customize-configs/section-about.php:43
+msgid "about"
+msgstr "О"
+
+#: inc/customize-configs/section-services.php:17
+#: inc/customize-configs/section-features.php:17
+#: inc/customize-configs/section-gallery.php:22
+#: inc/customize-configs/section-videolightbox.php:17
+#: inc/customize-configs/section-news.php:17
+#: inc/customize-configs/section-team.php:17
+#: inc/customize-configs/section-counter.php:17
+#: inc/customize-configs/section-about.php:17
+#: inc/customize-configs/section-contact.php:17
+msgid "Section Settings"
+msgstr "Одељак Подешавање"
+
+#: inc/customize-configs/section-about.php:8 inc/class-config.php:116
+msgid "Section: About"
+msgstr "Одељак: О нама"
+
+#: inc/customize-configs/section-hero.php:505
+msgid "Button #2 Link"
+msgstr "Веза за дугме #2"
+
+#: section-parts/section-hero.php:96 inc/customize-configs/section-hero.php:500
+msgid "#contact"
+msgstr "#contact"
+
+#: inc/customize-configs/section-hero.php:491
+msgid "Button #2 Text"
+msgstr "Текст за дугме #2"
+
+#: section-parts/section-hero.php:95 inc/customize-configs/section-hero.php:486
+msgid "Get Started"
+msgstr "Започните"
+
+#: inc/customize-configs/section-hero.php:440
+msgid "Button #1 Link"
+msgstr "Веза за дугме #1"
+
+#: inc/customize-configs/section-hero.php:435
+msgid "#about"
+msgstr "#about"
+
+#: inc/customize-configs/section-hero.php:426
+msgid "Button #1 Text"
+msgstr "Текст дугме #1"
+
+#: section-parts/section-about.php:4 inc/customize-configs/section-hero.php:421
+#: inc/customize-configs/section-about.php:58 inc/class-config.php:117
+msgid "About Us"
+msgstr "О нама"
+
+#: inc/customize-configs/section-hero.php:413
+msgid "You can use text rotate slider in this textarea too."
+msgstr "Можете користити слајдер за ротирање текста у овом текст пољу такође."
+
+#: inc/customize-configs/section-hero.php:410
+msgid "Small Text"
+msgstr "Мали текст"
+
+#: inc/customize-configs/section-hero.php:363
+msgid "Text Rotating Guide: Put your rotate texts separate by \"|\" into <span class=\"js-rotating\">...</span>, go to Customizer -> Theme Options -> Section: Hero -> Hero Settings to control rotate animation."
+msgstr "Водич за ротирајући текст : Унесите ваш ротирајући текст одвојен са \"|\" у <span class=\"js-rotating\">...</span>, одите на Customizer->Site Option->Animate to control rotate animation."
+
+#: inc/customize-configs/section-hero.php:361
+msgid "Large Text"
+msgstr "Велики текст"
+
+#: inc/customize-configs/section-hero.php:321
+msgid "Hero Content Layout"
+msgstr "Hero распоред садржаја"
+
+#: inc/customize-configs/section-hero.php:248
+msgid "Background Image"
+msgstr "Слика за позадину"
+
+#: inc/customize-configs/options-footer.php:160
+#: inc/customize-configs/options-footer.php:346
+#: inc/customize-configs/section-hero.php:243
+msgid "Background"
+msgstr "Позадина"
+
+#: inc/customize-configs/section-hero.php:239
+msgid "Background Images"
+msgstr "Позадинске слике"
+
+#: inc/customize-configs/section-hero.php:213
+msgid "Hero Background Media"
+msgstr "Hero позадина"
+
+#: inc/customize-configs/section-hero.php:111
+msgid "Padding Bottom:"
+msgstr "Padding Bottom:"
+
+#: inc/customize-configs/section-hero.php:95
+msgid "Padding Top:"
+msgstr "Padding Top:"
+
+#: inc/customize-configs/section-hero.php:90
+#: inc/customize-configs/section-hero.php:106
+msgid "10"
+msgstr "10"
+
+#: inc/customize-configs/section-hero.php:67
+msgid "Check this box to make hero section full screen."
+msgstr "Изначите ово поље за постављање hero одељка у пун екран."
+
+#: inc/customize-configs/section-hero.php:65
+msgid "Make hero section full screen"
+msgstr "Поставите hero одељак у пун екран "
+
+#: inc/customize-configs/section-hero.php:49
+#: inc/customize-configs/section-services.php:48
+#: inc/customize-configs/section-features.php:48
+#: inc/customize-configs/section-gallery.php:57
+#: inc/customize-configs/section-videolightbox.php:48
+#: inc/customize-configs/section-news.php:48
+#: inc/customize-configs/section-team.php:47
+#: inc/customize-configs/section-counter.php:47
+#: inc/customize-configs/section-about.php:48
+#: inc/customize-configs/section-contact.php:48
+msgid "Section ID:"
+msgstr "ID Одељка:"
+
+#: section-parts/section-hero.php:2 inc/customize-configs/section-hero.php:44
+msgid "hero"
+msgstr "hero"
+
+#: inc/customize-configs/section-hero.php:37
+#: inc/customize-configs/section-services.php:35
+#: inc/customize-configs/section-features.php:35
+#: inc/customize-configs/section-gallery.php:42
+#: inc/customize-configs/section-videolightbox.php:35
+#: inc/customize-configs/section-news.php:35
+#: inc/customize-configs/section-team.php:35
+#: inc/customize-configs/section-counter.php:34
+#: inc/customize-configs/section-about.php:35
+#: inc/customize-configs/section-contact.php:35
+msgid "Check this box to hide this section."
+msgstr "Означи ово поље за скривање овог одељка."
+
+#: inc/customize-configs/section-hero.php:35
+#: inc/customize-configs/section-services.php:33
+#: inc/customize-configs/section-features.php:33
+#: inc/customize-configs/section-gallery.php:40
+#: inc/customize-configs/section-videolightbox.php:33
+#: inc/customize-configs/section-news.php:33
+#: inc/customize-configs/section-team.php:33
+#: inc/customize-configs/section-counter.php:32
+#: inc/customize-configs/section-about.php:33
+#: inc/customize-configs/section-contact.php:33
+msgid "Hide this section?"
+msgstr "Сакриј овај одељак?"
+
+#: inc/customize-configs/section-hero.php:19
+msgid "Hero Settings"
+msgstr "Hero Подешавања"
+
+#: inc/customize-configs/section-hero.php:9 inc/class-config.php:110
+msgid "Section: Hero"
+msgstr "Одељак: Hero"
+
+#: inc/customize-configs/options-footer.php:145
+msgid "MailChimp Action URL"
+msgstr "MailChimp Action URL"
+
+#: inc/customize-configs/options-footer.php:129
+msgid "Newsletter Form Title"
+msgstr "Образац наслова билтена"
+
+#: inc/customize-configs/options-footer.php:115
+msgid "Check this box to hide footer newsletter form."
+msgstr "Означити ово поље да сакријете образац билтена у подножју."
+
+#: inc/customize-configs/options-footer.php:113
+msgid "Hide Footer Newsletter?"
+msgstr "Сакриј билтен у подножју?"
+
+#: inc/customize-configs/options-footer.php:52
+msgid "Social Footer Title"
+msgstr "Наслов друштвених мрежа у подножју"
+
+#: inc/customize-configs/options-footer.php:38
+msgid "The social profiles specified below will be displayed in the footer of your site."
+msgstr "Означени профили друштвених мрежа у дну биће приказани у подножју вашег сајта."
+
+#: inc/customize-configs/options-footer.php:25
+msgid "Check this box to hide footer social section."
+msgstr "Означите ово поље да сакријете одељак друштвених мрежа у подножју."
+
+#: inc/customize-configs/options-footer.php:23
+msgid "Hide Footer Social?"
+msgstr "Сакриј друштвене мреже у подножју?"
+
+#: inc/customize-configs/options-global.php:66
+msgid "Check this box to hide footer back to top button."
+msgstr "Означити ово поље ако желите да сакријете дугме за враћање на врх у подножју."
+
+#: inc/customize-configs/options-global.php:64
+msgid "Hide footer back to top?"
+msgstr "Сакриј враћање на врх у подножју?"
+
+#: inc/customize-configs/options-global.php:49
+msgid "Check this box to disable all element animation when scroll."
+msgstr "Означите ово поље ако желите да онемогућите анимације за све елементе приликом скроловања."
+
+#: inc/customize-configs/options-global.php:47
+msgid "Disable animation effect?"
+msgstr "Онемогућити ефекат анимације?"
+
+#: inc/customize-configs/options-global.php:7
+msgid "Global"
+msgstr "Глобално"
+
+#: inc/customize-configs/options.php:14
+msgid "Theme Options"
+msgstr "Могућности теме"
+
+#: inc/customizer.php:71
+msgid "Select member"
+msgstr "Означити члана"
+
+#: inc/customizer.php:60
+msgid "Select page"
+msgstr "Означити страницу"
+
+#: inc/customize-controls/control-repeater.php:357
+msgid "Close"
+msgstr "Затвори"
+
+#: inc/customize-controls/control-repeater.php:322
+msgid "Change"
+msgstr "Измени"
+
+#: inc/customize-controls/control-repeater.php:322
+msgid "Add"
+msgstr "Додај"
+
+#: inc/customize-controls/control-repeater.php:321
+#: inc/customize-controls/control-repeater.php:343
+#: inc/customize-controls/control-repeater.php:355
+msgid "Remove"
+msgstr "Избаци"
+
+#: inc/customize-controls/control-repeater.php:76
+#: inc/customize-controls/control-repeater.php:205
+msgid "Item"
+msgstr "Производ"
+
+#: inc/customize-controls/control-repeater.php:190
+msgid "Add an item"
+msgstr "Додај ставку"
+
+#: inc/template-tags.php:228
+msgid "Menu"
+msgstr "Изборник"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Скочи на садржај"
+
+#: functions.php:323
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:316
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:170
+msgid "Sidebar"
+msgstr "Бочна трака"
+
+#: functions.php:60
+msgid "Primary Menu"
+msgstr "Примарни изборник"
+
+#: inc/template-tags.php:1515
+msgid "%1$s theme by %2$s"
+msgstr "%1$s тема од %2$s"
+
+#: inc/template-tags.php:1513
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Copyright %1$s %2$s %3$s"
+
+#: footer.php:44
+msgid "Back To Top"
+msgstr "Повратак на врх"
+
+#: inc/template-tags.php:1781 inc/customize-configs/options-footer.php:123
+msgid "Join our Newsletter"
+msgstr "Придружите се нашем билтену"
+
+#: inc/template-tags.php:1800 inc/customize-configs/options-footer.php:46
+msgid "Keep Updated"
+msgstr "Ажурирај редовно"
+
+#: comments.php:93
+msgid "Comments are closed."
+msgstr "Затворено за коментаре."
+
+#: comments.php:59 comments.php:81
+msgid "Newer Comments"
+msgstr "Новији коментари"
+
+#: comments.php:58 comments.php:80
+msgid "Older Comments"
+msgstr "Старији коментари"
+
+#: comments.php:55 comments.php:77
+msgid "Comment navigation"
+msgstr "Кретање коментара"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Једно мишљење на &#0132;%2$s&#0147;"
+msgstr[1] "%1$s мишљења на &#0132;%2$s&#0147;"
+msgstr[2] "%1$s мишљења на &#0132;%2$s&#0147;"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Покушајте са гледањем месечних архива. %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Најкоришћеније категорије"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Изгледа да ништа није пронађено на овој локацији. Можда бисте требали да покушате неки од линкова доле или да употребите претрагу?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Та страница не може бити пронађена."
+
+#. Author URI of the theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Author of the theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the theme
+msgid "https://www.famethemes.com/themes/onepress/"
+msgstr "https://www.famethemes.com/themes/onepress/"
